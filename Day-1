@@ -190,4 +190,14 @@ print(marks[1])
 print(maeks[2])
 print(marks[3])
 
+#Vector Operation
+marks<- c(10,20,30,4,50)
+
+print(marks+5)
+print(marks*2)
+print(sum(marks))
+print(mean(marks))
+print(min(marks))
+print(max(marks))
+
 
