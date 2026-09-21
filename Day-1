@@ -120,5 +120,74 @@ print(age>18 | marks>90)
 #Changes TRUE to false and false to true
 print(!(age>18))
 
+#User Input
+#readline() to take a input from user
+name <- readline("enter your name: ")
+print(name)
+
+
+#if 
+age <- 20
+if(age>=18){
+  print("You are an adult")
+}
+
+#If-else
+marks<-75
+if(marks>=40){
+  print("Pass")
+}else{
+  print("Fail")
+}
+
+#if else if else
+marks<-85
+if(marks>=90){
+  print("Grade A+")
+}else if(marks>=80){
+  print("Grade A")
+}else if(marks>=70){
+  print("Grade B")
+}else if(marks>=40){
+  print("Grade c")
+}else{
+  print("Fail")
+}
+
+
+#Write an R program to find the largest number among three numbers using if, else if, and else.
+
+A<-20
+B<-15
+C<-25
+
+if(A>B & A>C){
+  print("A is Greater")
+}else if(B>A & B>C){
+  print("B is Greater")
+}else{
+  print("C is greater")
+}
+
+#Write an R program to check whether a number is positive, negative, or zero.
+number<-15
+if(number>0){
+  print("Positive Number")
+}else if(number<0){
+  print("Negative Number")
+}else{
+  print("zero")
+}
+
+#Vector
+
+#c() means combine
+marks<- c(80,75,90,65,88)
+#Print the complete vector
+print(marks)
+#get the first value
+print(marks[1])
+print(maeks[2])
+print(marks[3])
 
 
