@@ -1,0 +1,41 @@
+#GCF :-Ai with R
+#Day1-(21/09/2026)
+
+-> Ai= Making A Machine "Smart"
+
+# Machine Learning:-
+-> ml is a method where the computers learn the pattens from data and use those Patterns to make a Predictions without being explicitly programmed for every situations.
+
+
+--->> Data Type
+1) Label Data
+2) Unlabel Data
+
+
+-->>Types Of ML
+1) Supervised Learning
+-The Model Learns From Labeled Data
+-That Means We already know the Correct answer/output.
+-Used For 
+ - Classification
+ - Regression
+
+2) Unsupervised Learning
+- the data has no target/Label.
+- The model tries to discover hidden patterns or groups
+
+->Common Algorithm
+ - K-means Clustering
+ - PCA
+
+3)Reinforcement Learning
+-An Agent Learns by Interacting With an environment
+
+
+#Regressions VS Classification
+
+->Regression Predicts a Continuous Numerical Value.
+
+Linear Regression->Continuous Value
+
+->Classification Predicts a Category / Class.
