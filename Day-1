@@ -39,3 +39,48 @@
 Linear Regression->Continuous Value
 
 ->Classification Predicts a Category / Class.
+
+print("Hello World")
+
+"Welcome to R"
+
+#Variable
+x<- 10
+print(x)
+
+age <- 20
+name <- "Ehtesham"
+marks <- 86
+
+print(age)
+print(name)
+print(marks)
+
+#data Types
+price<-90.50
+age <- 20
+#character(text)
+name <- "Ehtesham"
+#logical
+passed <- TRUE
+#Complex Number
+number <- 3+2i
+
+#check the data type using class()
+print(class(price))
+print(class(age))
+print(class(name))
+print(class(passed))
+print(class(number))
+
+
+#Arithmatic Operation
+
+a <- 10
+b <- 3
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a^b)
+print(a%%b)
