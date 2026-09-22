@@ -15,3 +15,5 @@ pyttsx3>=2.90
 https://drive.google.com/drive/u/1/folders/1XTW0aONB_IwkKU1B4D4MXCWqJHFGmBxA
 
 https://drive.google.com/drive/u/1/folders/1BUCwuZSBk0peIAM9bkU1pZVzjQTTj1ce
+
+https://drive.google.com/drive/u/1/folders/1BUCwuZSBk0peIAM9bkU1pZVzjQTTj1ce
