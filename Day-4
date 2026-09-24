@@ -1,5 +1,8 @@
 #Day-4(24/09/26)
-Applications of Linear Regression
+#Applications of Linear Regression
+#create a model in R language including frontend and backend 
+frontend with flask and python and backend with html and css
+
 
 Student Marks Prediction
 Input: Study hours
@@ -31,6 +34,10 @@ Input: Number of customers
 Output: Revenue
 Example: Predict monthly revenue based on the number of customers.
 
+#Project
+Salary Prediction
+Input: Years of experience
+Output: Salary
+Example: Predict salary based on work experience.
 
-create a model in R language including frontend and backend 
-frontend with flask and python and backend with html and css
+
