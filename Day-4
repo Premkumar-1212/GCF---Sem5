@@ -1,0 +1,36 @@
+#Day-4(24/09/26)
+Applications of Linear Regression
+
+Student Marks Prediction
+Input: Study hours
+Output: Exam marks
+Example: Predict a student's marks based on how many hours they study.
+
+House Price Prediction
+Input: House area, number of rooms, location
+Output: House price
+Example: Predict the price of a house based on its size.
+
+Salary Prediction
+Input: Years of experience
+Output: Salary
+Example: Predict salary based on work experience.
+
+Sales Prediction
+Input: Advertising expenditure
+Output: Sales
+Example: Predict sales based on how much money is spent on advertising.
+
+Temperature Prediction
+Input: Previous temperature/weather data
+Output: Expected temperature
+Example: Estimate tomorrow's temperature.
+
+Business Revenue Prediction
+Input: Number of customers
+Output: Revenue
+Example: Predict monthly revenue based on the number of customers.
+
+
+create a model in R language including frontend and backend 
+frontend with flask and python and backend with html and css
