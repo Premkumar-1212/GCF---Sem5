@@ -1,0 +1,37 @@
+#Day-5:-26/09/26
+
+#unsupervised Learning
+
+#K-Means Clustering
+-> Used to divide data groups based on how similar the data points are
+->we don't give the model labels beforehand
+->K-means clustering is an unsupervised machine learning algorithm that groups unlabeled data points into a specific number of distinct, non-overlapping groups called clusters
+
+-> automatically Create
+Cluster 1: Young Customers with low spending
+Cluster 2: Older Customers with High spending
+
+#Common Uses:
+->Customer Segmentation: Group buyers by purchase habits.
+Group customers based on:
+• Age
+• Spending
+• Purchases
+->Image Compression: Reduce color palettes by grouping similar pixel values.
+Group similar colors/pixels.
+->Anomaly Detection: Identify outliers that do not fit neatly into any cluster
+Group students based on:
+• Marks
+• Attendance
+• Study hours
+
+
+
+#Centroid
+->A centroid is the central anchor point of a cluster, representing the mathematical average (mean) of all data points assigned to that group. It acts as the "prototype" or the single most representative point for everything inside that specific cluster.
+
+
+#Hierarchical Clustering
+->Hierarchical Clustering is an unsupervised machine learning algorithm used to divide data into groups called clusters.
+
+->Hierarchical clustering is an unsupervised machine learning algorithm that builds a tree-like structure of nested clusters. Unlike K-means, which requires you to pre-select the number of clusters (K) beforehand, hierarchical clustering maps out the relationships between all data points. This allows you to choose the optimal number of groups after reviewing the complete structure
