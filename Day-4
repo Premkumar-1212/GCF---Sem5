@@ -41,3 +41,21 @@ Output: Salary
 Example: Predict salary based on work experience.
 
 http://127.0.0.1:5000/
+
+
+#KNN
+->simple supervised algorithm
+->KNN does not create rules like a decision tree. It simply finds the closest examples and chooses the most common answer.
+
+#Model tuning 
+->model tuning means adjusting the settings of a ml model to get better performance. This settings are called hyperparameters.
+
+=>why do we tune a model
+->Underfit = Model is too simple and performs poorly
+->Overfit = Model learns the training data too closely and performs poorly on new data
+->Good fit = model performs well on both training and unseen data
+
+=>Common tuning methods 
+->grid search
+->Random Search
+->Cross Validation
