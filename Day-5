@@ -34,4 +34,15 @@ Group students based on:
 #Hierarchical Clustering
 ->Hierarchical Clustering is an unsupervised machine learning algorithm used to divide data into groups called clusters.
 
-->Hierarchical clustering is an unsupervised machine learning algorithm that builds a tree-like structure of nested clusters. Unlike K-means, which requires you to pre-select the number of clusters (K) beforehand, hierarchical clustering maps out the relationships between all data points. This allows you to choose the optimal number of groups after reviewing the complete structure
+->Hierarchical clustering is an unsupervised machine learning algorithm that builds a tree-like structure of nested clusters. 
+Unlike K-means, which requires you to pre-select the number of clusters (K) beforehand, hierarchical clustering maps out the relationships between all data points. 
+This allows you to choose the optimal number of groups after reviewing the complete structure
+
+
+#Dendrogram
+->The tree created by Hierarchical Clustering is called a Dendrogram.
+
+#Anomaly Detection
+->Anomaly Detection is a machine learning technique used to find unusual or abnormal data points in a dataset.
+
+
