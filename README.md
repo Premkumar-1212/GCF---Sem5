@@ -20,6 +20,8 @@ https://drive.google.com/drive/u/1/folders/1BUCwuZSBk0peIAM9bkU1pZVzjQTTj1ce
 
 https://drive.google.com/drive/u/1/folders/1Qgn7TcW60MGVx8M9jKDYJ4J9TFU0ifZ5
 
+https://drive.google.com/drive/u/0/folders/1BUCwuZSBk0peIAM9bkU1pZVzjQTTj1ce
+
 
 #After installing R
 "C:\Users\Ethnotech\Downloads\R-4.6.1-win.exe"
